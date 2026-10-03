@@ -20,14 +20,14 @@ Security is fundamental to everything we build at NexusTek.
 
 * If you discover a potential vulnerability in any of our public repositories, **do not open a public issue or pull request**.
 * Please report findings directly to our Security Operations Center at **[SOC@nexustek.com](mailto:SOC@nexustek.com)**.
-* See our organization-wide [`SECURITY.md`](https://github.com/NexusTek/.github/blob/main/SECURITY.md) guidelines for full details.
+* See our organization-wide [`SECURITY.md`](https://github.com/NexusTek-Org/.github/blob/main/SECURITY.md) guidelines for full details.
 
 ---
 
 ### 🌐 Connect with NexusTek
 
 * **Website:** [nexustek.com](https://www.nexustek.com)
-* **Contributions:** Check individual repository [`CONTRIBUTING.md`](https://github.com/NexusTek/.github/blob/main/CONTRIBUTING.md) files for event and PR guidelines.
+* **Contributions:** Check individual repository [`CONTRIBUTING.md`](https://github.com/NexusTek-Org/.github/blob/main/CONTRIBUTING.md) files for event and PR guidelines.
 
 ---
 
