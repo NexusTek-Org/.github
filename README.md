@@ -23,14 +23,14 @@ At NexusTek, security is integral to everything we build. All software and code 
 If you discover a potential security vulnerability in any of our public repositories or projects:
 
 1. **Do not create a public GitHub Issue or Discussion.**
-2. Report the finding directly to our security team via email at **SOC@nexustek.com** (or reference the specific [SECURITY.md](SECURITY.md) file located within individual repositories).
+2. Report the finding directly to our security team via email at **SOC@nexustek.com** (or reference the specific [`SECURITY.md`](https://github.com/NexusTek-Org/.github/blob/main/SECURITY.md) file located within individual repositories).
 3. Include details on the affected repository, steps to reproduce, and any relevant proof-of-concept details so we can investigate promptly.
 
 ---
 
 ## 🤝 Community & Support
 
-* **Issue Tracking:** Issues and PRs are enabled on select workshop repositories for event-specific questions or bug reports. Check the `CONTRIBUTING.md` file within individual repositories for repository-specific guidelines.
+* **Issue Tracking:** Issues and PRs are enabled on select workshop repositories for event-specific questions or bug reports. Check the [`CONTRIBUTING.md`](https://github.com/NexusTek-Org/.github/blob/main/CONTRIBUTING.md) file within individual repositories for repository-specific guidelines.
 * **Learn More:** To explore NexusTek services, solutions, and enterprise capabilities, visit our official website at [nexustek.com](https://www.nexustek.com).
 
 ---
